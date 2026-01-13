@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "某日、あなたに会いに行く",
+  "base_artist": "至福ぽんちょ",
+  "createdAt": "2026-01-13T22:29:46.084332Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "某日、あなたに会いに行く",
+      "artist": "至福ぽんちょ",
+      "has_synced": false,
+      "path": "select/pl_01_某日、あなたに会いに行く_至福ぽんちょ.txt"
+    }
+  ]
+}
